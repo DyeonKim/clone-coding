@@ -4,7 +4,7 @@ import { connect } from "react-redux";
 
 import * as actions from "../actions";
 
-import Value from "./value";
+import Value from "./Value";
 import Control from "./Control";
 
 
